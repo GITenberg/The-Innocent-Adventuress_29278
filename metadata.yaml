@@ -1,0 +1,31 @@
+_repo: The-Innocent-Adventuress_29278
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bradley, Mary Hastings
+    alias: Hastings, Mary Bradley
+    birthdate: 1882
+    deathdate: 1976
+    gutenberg_agent_id: '5091'
+    url: http://www.gutenberg.org/2009/agents/5091
+description: ''
+gutenberg_issued: '2009-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29278'
+  lccn: '21000977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Italians -- America -- Fiction'
+title: The Innocent Adventuress
+url: http://www.gutenberg.org/ebooks/29278
